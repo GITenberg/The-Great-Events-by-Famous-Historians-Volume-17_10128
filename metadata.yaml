@@ -1,0 +1,36 @@
+_repo: The-Great-Events-by-Famous-Historians-Volume-17_10128
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Horne, Charles F. (Charles Francis)
+    alias: Horne, Charles Francis
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '3319'
+    url: http://www.gutenberg.org/2009/agents/3319
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Horne
+  - agent_name: Rudd, John, LL. D.
+    alias: Rudd, John
+    gutenberg_agent_id: '8944'
+    url: http://www.gutenberg.org/2009/agents/8944
+  - agent_name: Johnson, Rossiter
+    alias: Johnson, Edwin Rossiter
+    birthdate: 1840
+    deathdate: 1931
+    gutenberg_agent_id: '3308'
+    url: http://www.gutenberg.org/2009/agents/3308
+description: This volume covers A.D. 1844-1861.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World history'
+- !lcc 'D'
+- GITenberg
+title: The Great Events by Famous Historians, Volume 17
+url: http://www.gutenberg.org/ebooks/10128
