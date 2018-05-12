@@ -1,5 +1,8 @@
 _repo: The-Great-Events-by-Famous-Historians-Volume-17_10128
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Horne, Charles F. (Charles Francis)
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '3308'
     url: http://www.gutenberg.org/2009/agents/3308
 description: This volume covers A.D. 1844-1861.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10128#The-Great-Events-by-Famous-Historians-Volume-17
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
